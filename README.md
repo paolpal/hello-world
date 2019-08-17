@@ -7,4 +7,5 @@ Mi sono diplomato al liceo Carlo Lorenzini di Pescia con una valutazione pari a 
 Possiedo buone conoscenze di programmazione nei linguaggi C, C++ e Java. Ho inoltre competenze in HTML, CSS e Javascript per la progettazione web.
 
 -------
-Test
+
+Scritto da Linux Mint - 17/09/19
